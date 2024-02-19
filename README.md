@@ -1,1 +1,1 @@
-# evolution_strategy
+# Genetic Algorithm
